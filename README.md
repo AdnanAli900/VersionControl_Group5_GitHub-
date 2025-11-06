@@ -16,3 +16,6 @@ It aims to demonstrate repository creation, branching strategies, commits, mergi
 ## Repository Details
 - Platform: *Github*
 - Tool: Git + Github
+
+//Final Call
+This is adnan ali and we have done our whole project without any type of conflict.
